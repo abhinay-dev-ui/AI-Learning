@@ -12,8 +12,21 @@ Python
 
 Remaining
 
-⬜ Modules
+⬜ Modules --> Current
 ⬜ File Handling
 ⬜ Context Managers
 ⬜ Type Hints
 ⬜ Virtual Environments
+
+LLM
+
+⬜ AI
+⬜ Machine Learning
+⬜ NLP
+⬜ Transformers
+
+Pending
+
+Embeddings
+Vector DB
+RAG
