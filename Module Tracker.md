@@ -12,7 +12,7 @@ Python
 
 Remaining
 
-⬜ Modules --> Current
+✅ Modules --> Current
 ⬜ File Handling
 ⬜ Context Managers
 ⬜ Type Hints
