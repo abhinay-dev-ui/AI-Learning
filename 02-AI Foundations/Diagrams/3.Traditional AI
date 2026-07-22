@@ -1,0 +1,74 @@
+# Traditional Programming → Machine Learning → Deep Learning
+
+```text
+                    Evolution of Learning
+
+Traditional Programming
+────────────────────────────────────────────────────────
+
+ Rules + Data
+       │
+       ▼
+   Program
+       │
+       ▼
+    Output
+
+✔ Human writes every rule.
+
+Examples:
+• Tax Calculator
+• Login Validation
+• Business Rules
+
+                         │
+                         ▼
+
+Machine Learning
+────────────────────────────────────────────────────────
+
+Historical Data
+       │
+       ▼
+Human Feature Engineering
+       │
+       ▼
+Machine Learning Model
+       │
+       ▼
+Prediction
+
+✔ Learns patterns from data.
+✘ Humans must manually create features.
+
+Examples:
+• Spam Detection
+• Fraud Detection
+• Credit Scoring
+
+                         │
+                         ▼
+
+Deep Learning
+────────────────────────────────────────────────────────
+
+Raw Data
+       │
+       ▼
+Artificial Neural Network
+(Multiple Hidden Layers)
+       │
+       ▼
+Automatic Feature Learning
+       │
+       ▼
+Prediction
+
+✔ Learns features automatically.
+✔ Handles complex data like images, speech, and language.
+
+Examples:
+• ChatGPT
+• Face Recognition
+• Speech Recognition
+```

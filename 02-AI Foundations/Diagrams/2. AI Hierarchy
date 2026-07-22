@@ -1,0 +1,17 @@
+# AI Hierarchy
+
+```text
+Artificial Intelligence (AI)
+│
+├── Rule-Based AI
+│
+└── Learning-Based AI
+      │
+      ├── Machine Learning
+      │      │
+      │      └── Deep Learning
+      │               │
+      │               └── Large Language Models
+      │
+      └── Other AI Techniques
+```

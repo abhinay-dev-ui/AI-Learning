@@ -1,0 +1,71 @@
+# Artificial Neural Network → Learning → Natural Language Processing
+
+```text
+                    Artificial Neural Network (ANN)
+
+                 Input Layer
+              ○     ○     ○
+                 │   │   │
+                 ▼   ▼   ▼
+
+               Hidden Layer
+              ○     ○     ○
+                 │   │   │
+                 ▼   ▼   ▼
+
+               Hidden Layer
+              ○     ○     ○
+                    │
+                    ▼
+
+               Output Layer
+                    ○
+
+────────────────────────────────────────────────────────────────────
+
+How the Network Learns
+
+Training Data
+      │
+      ▼
+Neural Network
+      │
+      ▼
+Prediction
+      │
+      ▼
+Compare with Expected Output
+      │
+      ▼
+Calculate Error
+      │
+      ▼
+Adjust Weights
+      │
+      ▼
+Repeat Millions of Times
+      │
+      ▼
+Learn Better Patterns
+
+────────────────────────────────────────────────────────────────────
+
+Applying ANN to Human Language (NLP)
+
+Human Language
+      │
+      ▼
+Text Processing
+      │
+      ▼
+Convert Text into Numbers
+      │
+      ▼
+Artificial Neural Network
+      │
+      ▼
+Learn Language Patterns
+      │
+      ▼
+Prediction / Response
+```

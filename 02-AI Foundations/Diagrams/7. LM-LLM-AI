@@ -1,0 +1,65 @@
+# Language Model → Large Language Model → Generative AI
+
+```text
+                    Language Model (LM)
+
+Training Text
+      │
+      ▼
+Learn Statistical Patterns
+      │
+      ▼
+Predict Next Token
+      │
+      ▼
+Generate Sentence
+
+Example:
+"I love playing ____"
+
+↓
+
+"Cricket"
+
+────────────────────────────────────────────────────────────────────
+
+             Large Language Model (LLM)
+
+        Large Dataset
+              │
+              ▼
+      Large Neural Network
+      (Billions of Parameters)
+              │
+              ▼
+        Massive Compute
+      (Thousands of GPUs)
+              │
+              ▼
+     Better Next Token Prediction
+              │
+              ▼
+     Understand Longer Context
+              │
+              ▼
+ Generate Human-like Responses
+
+────────────────────────────────────────────────────────────────────
+
+                Generative AI
+
+                Prompt
+                  │
+                  ▼
+                 LLM
+                  │
+     ┌────────────┼────────────┐
+     ▼            ▼            ▼
+   Text         Images       Code
+     │            │            │
+     ▼            ▼            ▼
+  Audio         Video      Documents
+
+Result:
+Generate New Content from Learned Patterns
+```
