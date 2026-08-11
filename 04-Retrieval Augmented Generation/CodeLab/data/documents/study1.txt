@@ -1,0 +1,9 @@
+Study ID: STUDY-001
+
+The study evaluates the effectiveness of Treatment A
+for improving patient recovery time.
+
+The target study duration is 12 months.
+
+The primary success criterion is an improvement
+in recovery time of at least 20 percent.
