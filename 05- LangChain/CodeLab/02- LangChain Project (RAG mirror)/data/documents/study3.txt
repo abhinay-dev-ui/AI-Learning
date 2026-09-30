@@ -1,0 +1,9 @@
+Study ID: STUDY-003
+
+The study evaluates the effectiveness of Treatment C
+for improving patient recovery time.
+
+The target study duration is 36 months.
+
+The primary success criterion is an improvement
+in recovery time of at least 30 percent.

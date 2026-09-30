@@ -50,4 +50,4 @@ class VectorStore:
             reverse=True,
         )
 
-        return scored_results[:top_k]
+        return scored_results[:top_k] # we need to return all the candidates for reranking purpose
